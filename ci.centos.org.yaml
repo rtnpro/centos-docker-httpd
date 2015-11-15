@@ -1,0 +1,3 @@
+- project
+    image_name: httpd
+    image_version: latest
