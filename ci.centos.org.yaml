@@ -1,3 +1,4 @@
 - project:
+    name: container_httpd
     image_name: httpd
     image_version: latest
