@@ -1,5 +1,5 @@
 - project:
-    name: container_httpd
+    name: httpd
     image_name: httpd
     image_version: latest
     centos_arch: x86_64
